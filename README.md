@@ -1,6 +1,5 @@
 This code provides a basic whiteboard application with functionalities to draw various shapes, use different tools, and manage multiple pages. You can build upon this foundation to add more features and enhancements as needed.
 
-
 1. import tkinter as tk
 A standard Python library for creating graphical user interfaces (GUIs).
 
